@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+
+.target{
+    background: orange;
+    height: 200px;
+    width: 200px;
+    overflow: hidden;
+
+    border: 2px solid silver;
+    box-shadow: black 28px 28px 0px 12px;}
+
+
+
